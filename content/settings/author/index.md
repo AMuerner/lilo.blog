@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
+name = "Anna Annelis Adelheid Mürner"
+image = "/media/rhpne1945.jpg"
 url = "/about/"
 +++
