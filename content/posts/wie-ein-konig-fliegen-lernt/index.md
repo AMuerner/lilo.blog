@@ -1,5 +1,5 @@
 +++
-title = "Wie ein König fliegen lernt"
+title = "Wenn ein König fliegen lernt"
 date = "2024-02-14"
 draft = true
 pinned = false
@@ -32,8 +32,6 @@ txt
 *underbild text*
 
 txt
-
-
 
 {{<box>}}
 
