@@ -5,4 +5,38 @@ draft = true
 pinned = false
 image = "5vogellisi_schneeflocken_quer-1-.jpg"
 +++
-he
+# Header
+
+{{<lead>}} lead {{</lead>}}
+
+name der verv
+
+(bild)
+*underbild text*
+
+### 1. Untertitte
+
+txt
+
+> zeitat
+>
+> *\-quelle zitat*
+
+txtt
+
+\##
+
+txt
+
+(bild)
+*underbild text*
+
+txt
+
+
+
+{{<box>}}
+
+infokasten
+
+{{</box>}}
