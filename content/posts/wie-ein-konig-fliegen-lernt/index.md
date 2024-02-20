@@ -4,6 +4,7 @@ date = "2024-02-14"
 draft = false
 pinned = false
 image = "5vogellisi_schneeflocken_quer-1-.jpg"
+description = "hier kommt noch das lead\n"
 +++
 {{<lead>}} lead {{</lead>}}
 
