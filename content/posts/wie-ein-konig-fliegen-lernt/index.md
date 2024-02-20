@@ -14,7 +14,7 @@ lead
 
 von: Anna Mürner und Erine Raedler 
 
-![Bild 1: Vogellisi im Schnee (Offizielles Pressefoto )](blob:https://annaannelisadelheidmuernerhoefu.netlify.app/a1167924-6556-4d94-b27e-e3b8c80c4540)
+![*Bild 1: Vogelilsi im Schnee (Offizielles Pressefoto [maerchenhaft.ch](https://www.maerchenhaft.ch/))*](5vogellisi_schneeflocken_quer-1-.jpg)
 
 Wir befinden uns in einem kleinen Saal, die Tribüne ist wie ein baustellenähnliches Gerüst aus Holz Planken und Metall extra für das Theater gebaut, mit blauen Stühlen, die eher klein auch für eine Jugendliche sind und weichen lila Kissen die die Stuhl Grösse entschuldigen. Der Saal ist beleuchtet, die Bühne dunkel, unberührt, es scheint, als wäre die weisse Konstruktion von Treppen, Hügeln und einer Bank neben einem einfachen Baum auf Rädern am Schlafen. Jedoch wird diese bald der spannendste Anblick in den nächsten 2 Stunden sein wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst diese weisse Landschaft zum Leben erwecken. Als es so weit ist kündet der Sprecher des Ski-Weltcups Adelboden ein Lauf eines Skirennens an. Bald wird er jedoch abgelöst vor einer beruhigenden Frauenstimme, die uns in das Stück einführt. Sie erzählt, wie es damals war als das Vogellisi, unsere Protagonistin, gelebt hatte. Ein einzelner Lichtstrahl erscheint, darin steht das Vogellisi. Sie dreht sich im herabfallenden Schnee und die Show beginnt. 
 
