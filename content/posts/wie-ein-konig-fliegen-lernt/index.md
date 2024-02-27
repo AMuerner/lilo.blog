@@ -42,7 +42,17 @@ Die Sänger\*innen müssen sich einsingen, auch ein Soundcheck muss gemacht werd
 
 ### Wenni numä wüsst...
 
-Ja, es war ein extremer Prozess und ich habe unglaublich mit mir gekämpft, denn wir hatten eigentlich gesagt, dass wir nicht noch einmal Vogellisi machen, schon gar nicht dieses Stück. Ich habe mich dann mit ganz vielen anderen Stücken befasst, doch konnte mich nicht auf etwas anderes einlassen. Diese wahnsinnigen Bilder, die ich beim Schreiben kreiert hatte, sind immer wieder gekommen. Ich dachte dann es wäre so wahnsinnig spannend dies umzusetzen. Die anderen Sachen wirkten langweilig auf mich, weil ich wie kein Feuer dafür hatte, dennoch sagte ich mir immer wieder nein, wir spielen nicht dieses Stück. Ich führte immer wieder Gespräche auch mit externen Leuten, die eigentlich alle sagten, nein, das würde ich nicht tun. Also bekam ich immer wieder einen Schlag. (...) Sie sagen auch, dass es besser wäre, etwas Neues zu machen, eine neue Geschichte. 
+
+
+Das berühmte Lied zum Vogellisi ertönt gleich am Anfang der Aufführung, unterbrochen vom Sprecher. Darauffolgend erklingt die Stimme von Annemarie in der Funktion einer Erzählerin, die uns in die Geschichte einführt und uns in seinen Bann zieht. Die ersten Szenen bauen das Stück auf und spätestens bei der ersten Massenszene kommt man zusammen mit allen Kurgästen auch im Adelboden des späten 19. Jahrhunderts an. Im Rampenlicht wirken die Charaktere ruhig, doch hinter der Bühne ziehen einige innerhalb von Minuten ein anderes Kostüm an oder schminken sich nach und andere müssen zum richtigen Zeitpunkt etwas an der Bühne umbauen.
+
+Die Bühne ist sehr vielfältig gestaltet, indem viele Teile verschiebbar sind. Ob es nur um das Schaufenster oder die Treppe zu verschieben geht, die Umbauten müssen gut geprobt werden, denn sie sollten leise, geschmeidig und schnell ablaufen. Dies ist die höchste Priorität. Gesprochen darf während dieser Umbauten auch nur das Nötigste, prinzipiell sollte hinter der Bühne nur geflüstert oder am besten gar nicht gesprochen werden. Dennoch wird hinter der Bühne der Text im Flüsterton mitgesprochen, bei den Liedern mitgesungen oder zumindest die Lippen bewegt. Eine Gruppe entwickelte sogar eine ganze Choreo zu einem der Songs, die bis zum Ende der Produktion alle tanzten, die nicht auf der Bühne waren.
+
+In der Pause geht es für einige noch weiter, denn die Besucher\*innen müssen im Bistro verpflegt werden. Das Bistro ist mit Tannenbäumen, alten Skis und Schlitten, Lichterketten und Watte als Schnee geschmückt. So verlässt einem die Märchenweltstimmung nie so ganz. Neben dem Bistro in einem kleinen Pop-up-Store verkaufen einige Schauspieler\*innen Schokolade und Fan-Artikel. Auch dieser ist bis ins Detail dekoriert. Kostümierte Kinder läuten mit einer Kuh Glocke das Ende der Pause ein. 
+
+Als die Show weiter geht, warten alle Schauspieler*innen, welche gerade nicht auf der Bühne sind gespannt auf den Improvisationstext. Danach geht auch die Achterbahnfahrt der Gefühle weiter. Auf eine sehr lustige Szene folgte ein herzzerreissendes Gespräch, doch wie in den meisten Theatern, gibt es auch hier ein Happy End. Der Adler lernt doch noch fliegen und hebt mit Lisi auf dem Rücken ab.
+
+
 
 ![Bild 3: Der König mit dem Lisi. Im Schlussbild heben die Schauspieler*inne den Adler und das Lisi noch einmal in den Himmel. (Quelle: Erine Raedler) ](schluss.jpg)
 
