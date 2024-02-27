@@ -52,7 +52,7 @@ Als die Show weitergeht, warten alle Schauspieler*innen, welche gerade nicht auf
 
 
 
-![Bild 3: Der König mit dem Lisi. Im Schlussbild heben die Schauspieler*inne den Adler und das Lisi noch einmal in den Himmel. (Quelle: Erine Raedler) ](schluss.jpg)
+![Bild 3: Der König mit Lisi. Im Schlussbild heben die Schauspieler*inne den Adler und Lisi noch einmal in den Himmel. (Quelle: Erine Raedler) ](schluss.jpg)
 
 ### Hoch geflogen und heil gelandet
 
