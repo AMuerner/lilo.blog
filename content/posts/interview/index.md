@@ -13,6 +13,10 @@ Anna Mürner und Erine Raedler
 
 ![Das Gesicht hinter dem Vogellisi. Das offizielle Foto von Annemarie Stähli aus dem Programmheft des Theaters. (Quelle: Annemarie Stähli) ](annemarie.jpg)
 
+
+
+Es ist hell in der Aula der Schule Steffisburg, wo Annemarie normalerweise mit ihren Schülerinnen probt, doch heute wird nicht geprobt, sondern erzählt. Nämlich die Geschichte, wie es dazu kam , ‘Vogellisi und der König der Lüfte’ auf die Bühne des KKThun kam. Denn dies war lange nicht geplant oder überhaupt vorgesehen.
+
 ### Wie bist du auf das Thema Vogellisi gekommen? Was fasziniert dich daran?
 
 Mich faszinieren die zwei Welten, einerseits die historische Welt, welche schon in «Vogellisi ein Naturmärchen» und auch beim grossen Traum und bei König der Lüfte eine sehr starke Rolle gespielt hat: Also die ganze Entwicklung vom Tourismus. (...) Ich habe dann zum Teil auch meinen Vater gefragt, wie es war in unserem Hotel, wie es erbaut wurde, wie es früher war, ihm musste man immer die Würmer aus der Nase ziehen, aber manchmal hat er dann ein paar Anekdoten erzählt. Auch in der Schule hatte man das Thema. Es gibt das Buch ,100 Jahre Kurort Adelboden´. Das ist ganz ein spannendes Buch, welches den Aufbau von Adelboden beschreibt. Das ist die erste grosse Faszination, das Historische, also nicht nur von Adelboden, sondern auch diese Auswandererwelle 1890, welche im ‘grossen Traum’ thematisiert wurde. Dort interessiert mich immer der Mensch, was er daraus gemacht hat, was er für eine Rolle gespielt hat, mit was er kämpfte und es ist auch sehr interessant, da es existentielle Nöte sind. Also im ‘grossen Traum’ zum Beispiel, das Heimweh und das Ausgestossen sein oder im ‘Vogellisi, ein Naturmärchen’ die Angst vor dem Tourismus. 
