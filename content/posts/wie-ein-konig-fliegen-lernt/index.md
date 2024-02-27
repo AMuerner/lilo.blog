@@ -7,8 +7,8 @@ tags = ["Reportage"]
 image = "5vogellisi_schneeflocken_quer-1-.jpg"
 description = "Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert. "
 +++
-{{<lead>}}Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert.
- {{<lead>}}
+{{<lead>}} Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert.
+ {{</lead>}}
 
 Anna Mürner und Erine Raedler
 
@@ -31,17 +31,11 @@ Ja, ich finde, es gibt dem Ganzen eine Poesie, eine andere Ebene. Das finde ich 
 
 ![Bild 2: Aufwärmen fürs Skifahren. Das Volk zeigt in der ersten Massenszene eine beeindruckende Choreo. (Quelle: Erine Raedler) ](ski-choreo.jpg)
 
-
-
 ### Wenni numä wüsst...
 
 Ja, es war ein extremer Prozess und ich habe unglaublich mit mir gekämpft, denn wir hatten eigentlich gesagt, dass wir nicht noch einmal Vogellisi machen, schon gar nicht dieses Stück. Ich habe mich dann mit ganz vielen anderen Stücken befasst, doch konnte mich nicht auf etwas anderes einlassen. Diese wahnsinnigen Bilder, die ich beim Schreiben kreiert hatte, sind immer wieder gekommen. Ich dachte dann es wäre so wahnsinnig spannend dies umzusetzen. Die anderen Sachen wirkten langweilig auf mich, weil ich wie kein Feuer dafür hatte, dennoch sagte ich mir immer wieder nein, wir spielen nicht dieses Stück. Ich führte immer wieder Gespräche auch mit externen Leuten, die eigentlich alle sagten, nein, das würde ich nicht tun. Also bekam ich immer wieder einen Schlag. (...) Sie sagen auch, dass es besser wäre, etwas Neues zu machen, eine neue Geschichte. 
 
-
-
 ![Bild 3: Der König mit dem Lisi. Im Schlussbild heben die Schauspieler*inne den Adler und das Lisi noch einmal in den Himmel. (Quelle: Erine Raedler) ](schluss.jpg)
-
-
 
 ### Hochgeflogen und heil gelandet
 
