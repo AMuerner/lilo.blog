@@ -8,7 +8,7 @@ image = "annemarie.jpg"
 description = "Aus dem Nähkästchen erzählt Annemarie Stähli, was damals mit ihr passierte. Damals als der Entscheid fiel «Vogellisi und der König der Lüfte» doch noch auf die Bühne zu bringen. "
 +++
 {{<lead>}} Aus dem Nähkästchen erzählt Annemarie Stähli, was damals mit ihr passierte. Damals als der Entscheid fiel «Vogellisi und der König der Lüfte» doch noch auf die Bühne zu bringen.
-{{<lead>}}
+{{</lead>}}
 
 Anna Mürner und Erine Raedler
 
