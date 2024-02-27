@@ -7,9 +7,11 @@ image = "annemarie.jpg"
 description = "Aus dem Nähkästchen erzählt Annemarie Stähli, was damals mit ihr passierte. Damals als der Entscheid fiel «Vogellisi und der König der Lüfte» doch noch auf die Bühne zu bringen. "
 +++
 {{<lead>}} Aus dem Nähkästchen erzählt Annemarie Stähli, was damals mit ihr passierte. Damals als der Entscheid fiel «Vogellisi und der König der Lüfte» doch noch auf die Bühne zu bringen.\
- {{</lead>}}
+ {{<lead>}}
 
 Anna Mürner und Erine Raedler
+
+![Das Gesicht hinter dem Vogellisi. Das offizielle Foto von Annemarie Stähli aus dem Programmheft des Theaters. (Quelle: Annemarie Stähli) ](annemarie.jpg)
 
 ### Wie bist du auf das Thema Vogellisi gekommen? Was fasziniert dich daran?
 
@@ -22,7 +24,7 @@ Ja, ich finde, es gibt dem Ganzen eine Poesie, eine andere Ebene. Das finde ich 
 
 > « (...), wenn wir etwas Gutes tun, werden wir ja vielfach auch belohnt, indem wir einfach Freude entgegennehmen können.» 
 >
-> *\-Annemarie Stähli*
+> *Annemarie Stähli*
 
 ### War es eine grosse Überwindung und Entscheidungsphase, dieses Stück doch noch auf die Bühne zu bringen?
 
@@ -30,7 +32,7 @@ Ja, es war ein extremer Prozess und ich habe unglaublich mit mir gekämpft, denn
 
 > «Diese wahnsinnigen Bilder, welche ich beim Schreiben kreiert hatte, sind immer wieder gekommen.» 
 >
-> *\-Annemarie Stähli*
+> *Annemarie Stähli*
 
 ### Was war das Argument, trotzdem es zu tun?
 
