@@ -14,7 +14,7 @@ Anna Mürner und Erine Raedler
 
 ![Bild 1: Vogelilsi im Schnee Der Plastikschnee erzählt zusammen mit der Erzählerin wie es zu Zeiten von Vogellisi war. (Offizielles Pressefoto maerchenhaft.ch)](5vogellisi_schneeflocken_quer-1-.jpg)
 
-Einstieg
+Wir befinden uns in einem kleinen Saal, die Tribüne ist ein Gerüst aus Holz Planken und Metall. Aneinander reihen sich Blaue Stühle, die eher klein sind, auch für eine Jugendliche, mit weichen lila Kissen, die die Stuhl Grösse entschuldigen. Der Saal ist beleuchtet, die Bühne dunkel und unberührt und es scheint, als wäre die weisse Konstruktion von Treppen, Hügeln und einer Bank neben einem einfachen Baum auf Rädern am Schlafen. Als die Lichter im Saal ausgehen kündet der Sprecher des Ski-Weltcups Adelboden ein Lauf eines Skirennens an doch bald wird er abgelöst vor einer beruhigenden Frauenstimme, die uns in die Zeit, in der das Stück spielt, einführt. Sie erzählt, wie es damals war als das Vogellisi gelebt hatte. Ein einzelner Lichtstrahl erscheint, darin steht das Vogellisi. Sie dreht sich im herabfallenden Schnee und die Show beginnt.  
 
 ### Eine Idee wird gelegt
 
