@@ -13,8 +13,6 @@ Anna Mürner und Erine Raedler
 
 ![Das Gesicht hinter dem Vogellisi. Das offizielle Foto von Annemarie Stähli aus dem Programmheft des Theaters. (Quelle: Annemarie Stähli) ](annemarie.jpg)
 
-
-
 Es ist hell in der Aula der Schule Steffisburg, wo Annemarie normalerweise mit ihren Schülerinnen probt, doch heute wird nicht geprobt, sondern erzählt. Nämlich die Geschichte, wie es dazu kam , ‘Vogellisi und der König der Lüfte’ auf die Bühne des KKThun kam. Denn dies war lange nicht geplant oder überhaupt vorgesehen.
 
 ### Wie bist du auf das Thema Vogellisi gekommen? Was fasziniert dich daran?
@@ -24,7 +22,7 @@ Der andere Aspekt ist das Märchenhafte, welches in allen 3 Stücken eine grosse
 
 ### Für dich ist es also wichtig, dass es nicht nur auf Fakten basiert, sondern auch diesen märchenhaften Aspekt hat?
 
-Ja, ich finde, es gibt dem Ganzen eine Poesie, eine andere Ebene. Das finde ich sehr spannend. Im ‘Vogellisi’ geht es ganz stark um die Eigenbestimmung und Freiheit, wie ich mein Leben gestalte und dass das Vogellisi durch ihre Schicksalsschläge nicht ganz frei ist. Das sind ganz realistische Themen. Oder auch das Vogellisi, welches den kleinen Adler rettet im ‘König der Lüfte’ und wenn wir etwas Gutes tun, werden wir ja vielfach auch belohnt, indem wir einfach Freude entgegennehmen können. Und das ist manchmal nicht sichtbar. Und im Märchen können wir dies sichtbar machen. Sie hat etwas Gutes getan, sie hat den Vogel gerettet und sie wird belohnt, indem sie von den Vögeln gerettet wird und diese ist, was man herrlich spielen kann, und so kann man auch ganz schöne Bilder kreieren mit diesen märchenhaften Szenen (...)Dies gibt ganz schöne Bilder dort probiere ich auch die Fantasie des Zuschauers zu gebrauchen 
+Ja, ich finde, es gibt dem Ganzen eine Poesie, eine andere Ebene. Das finde ich sehr spannend. Im ‘Vogellisi’ geht es ganz stark um die Eigenbestimmung und Freiheit, wie ich mein Leben gestalte und dass das Vogellisi durch ihre Schicksalsschläge nicht ganz frei ist. Das sind ganz realistische Themen. Oder auch das Vogellisi, welches den kleinen Adler rettet im ‘König der Lüfte’ und wenn wir etwas Gutes tun, werden wir ja vielfach auch belohnt, indem wir einfach Freude entgegennehmen können. Und das ist manchmal nicht sichtbar. Und im Märchen können wir dies sichtbar machen. Sie hat etwas Gutes getan, sie hat den Vogel gerettet und sie wird belohnt, indem sie von den Vögeln gerettet wird und diese ist, was man herrlich spielen kann, und so kann man auch ganz schöne Bilder kreieren mit diesen märchenhaften Szenen (...)Dies gibt ganz schöne Bilder dort probiere ich auch die Fantasie des Zuschauers zu gebrauchen. 
 
 > « (...), wenn wir etwas Gutes tun, werden wir ja vielfach auch belohnt, indem wir einfach Freude entgegennehmen können.» 
 >
