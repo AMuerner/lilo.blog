@@ -6,7 +6,7 @@ pinned = false
 image = "5vogellisi_schneeflocken_quer-1-.jpg"
 description = "Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert. "
 +++
-{{<lead>}}Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert.\
+{{<lead>}}Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert.
  {{<lead>}}
 
 Anna Mürner und Erine Raedler
