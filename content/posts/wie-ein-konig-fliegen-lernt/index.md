@@ -3,7 +3,7 @@ title = "Wenn ein König fliegen lernt"
 date = "2024-02-27"
 draft = false
 pinned = false
-tags = ["reportage"]
+tags = ["Reportage"]
 image = "5vogellisi_schneeflocken_quer-1-.jpg"
 description = "Wenn die Lichter im Saal ausgehen und die Scheinwerfer an, wenn die Schauspieler zu singen und tanzen beginnen und mit ihrer Kunst die weisse Landschaft zum Leben erwecken, dann wird das ‘Vogellisi und der König der Lüfte’ doch noch auf der Bühne präsentiert. "
 +++
