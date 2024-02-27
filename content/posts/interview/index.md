@@ -1,5 +1,5 @@
 +++
-title = "Von viel negativem Feedback und wahnsinnigen Bildern"
+title = "Von negativem Feedback und wahnsinnigen Bildern"
 date = "2024-02-27"
 draft = false
 pinned = false
