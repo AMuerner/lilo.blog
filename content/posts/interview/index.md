@@ -1,9 +1,10 @@
 +++
-title = "interview"
+title = "Von viel negativem Feedback und wahnsinnigen Bildern"
 date = "2024-02-20"
 draft = false
 pinned = false
-description = "lead "
+image = "annemarie.jpg"
+description = "Aus dem Nähkästchen erzählt Annemarie Stähli, was damals mit ihr passierte. Damals als der Entscheid fiel «Vogellisi und der König der Lüfte» doch noch auf die Bühne zu bringen. "
 +++
 
 
