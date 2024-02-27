@@ -56,7 +56,7 @@ Als die Show weiter geht, warten alle Schauspieler*innen, welche gerade nicht au
 
 ![Bild 3: Der König mit dem Lisi. Im Schlussbild heben die Schauspieler*inne den Adler und das Lisi noch einmal in den Himmel. (Quelle: Erine Raedler) ](schluss.jpg)
 
-### Hochgeflogen und heil gelandet
+### Hoch geflogen und heil gelandet
 
 Das Bauchgefühl. Ich sprach dann viel mit Renate (Mitgründerin der Oberländer Märlibühni) darüber. Wir sagten dann, dass es eigentlich immer gut kam, wenn wir auf unser Bauchgefühl gehört hatten. Denn mein Bauchgefühl sagte (...) dass diese Bilder gut kommen und die müssen wir auf die Bühne holen. Dies war schlussendlich auch ausschlaggebend. 
 
