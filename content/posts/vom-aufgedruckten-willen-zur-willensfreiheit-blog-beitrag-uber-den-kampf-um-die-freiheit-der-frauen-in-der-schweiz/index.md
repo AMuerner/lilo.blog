@@ -4,7 +4,7 @@ date = "2024-10-22"
 draft = false
 pinned = false
 tags = ["Erörterung"]
-image = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orellfuessli.ch%2Fshop%2Fhome%2Fartikeldetails%2FA1061797575&psig=AOvVaw0fASAElCzIzJihdA9a9-yr&ust=1729673146279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDcgd3MoYkDFQAAAAAdAAAAABAE"
+image = "screenshot-2024-10-22-104813.png"
 description = "Erörterung über das Buch Helvetias Töchter, verbessert mit ChatGPT"
 +++
 Stell dir vor, du lebst in einer Zeit, in der deine Entscheidungen nicht deine eigenen sind, sondern die eines anderen – deines Vaters, deines Ehemanns oder eines anderen Mannes in deinem Leben. Dieser Zustand der Fremdbestimmung war für viele Frauen in der Schweiz vor rund 170 Jahren Realität. Frauen hatten keine Kontrolle über ihr Leben: Sie konnten weder ihren Beruf wählen, noch ihre Ehepartner bestimmen, geschweige denn Rechte über ihre eigenen Kinder ausüben. Eine eindrückliche literarische Darstellung dieser Zeit bietet Nadine A. Brüggers Buch „Helvetias Töchter“. Anhand fiktiver Figuren wie Hélène und Emerita beleuchtet es die schwierigen Entscheidungen, die Frauen treffen mussten, um sich gegen den Willen der Männer zu behaupten. Doch zu welchem Preis?
